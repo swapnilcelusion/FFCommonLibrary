@@ -1,0 +1,6 @@
+framework module FFCommonLibrary {
+  umbrella header "FFCommonLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FFCommonLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of FFCommonLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/swapnil.nandgave@celusion.com/FFCommonLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "swapnil.nandgave@celusion.com": "swapnil.nandgave@celusion.com"
+  },
+  "source": {
+    "git": "https://github.com/swapnil.nandgave@celusion.com/FFCommonLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFCommonLibrary/Classes/**/*"
+}
