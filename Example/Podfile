@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FFCommonLibrary_Example' do
+  pod 'FFCommonLibrary', :path => '../'
+
+  target 'FFCommonLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
